@@ -1,0 +1,1 @@
+Just a little drum kit project I worked on with given starting image and audio files to get a better grasp of JS. This project focused on event listeners, imput validation, using switch cases, and selecting and manipulating elements with pure js.
